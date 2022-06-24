@@ -2,13 +2,13 @@
   "name": "palestorm",
   "displayName": "Palestorm",
   "description": "An awesome theme for awesome people",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "publisher": "alexanderalekseenko",
   "license": "MIT",
   "author": "Alexander Alekseenko",
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#B8B1C5",
+    "color": "#2A2D3E",
     "theme": "dark"
   },
   "repository": {

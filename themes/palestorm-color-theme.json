@@ -1412,7 +1412,7 @@
     "menu.background": "#272b38",
     "menu.selectionForeground": "#e6f1ff",
     "menu.selectionBackground": "#20232c",
-    "menu.separatorBackground": "#bbbbbb",
+    "menu.separatorBackground": "#57607da3",
     "menu.border": "#1f222e00",
 
     "welcomePage.buttonBackground": "#444c69",
