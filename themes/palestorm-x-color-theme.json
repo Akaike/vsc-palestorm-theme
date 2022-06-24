@@ -445,7 +445,7 @@
     "editorBracketMatch.background": "#0064001a",
     "editorBracketMatch.border": "#888888",
     "editor.foldBackground": "#46525e4d",
-    "editorOverviewRuler.background": "#25252500",
+    "editorOverviewRuler.background": "#20212743",
     "editorOverviewRuler.border": "#7f7f7f00",
     "editorError.foreground": "#f48771",
     "editorError.background": "#B73A3400",
@@ -514,9 +514,10 @@
     "tab.hoverBackground": "#dbdbdc00",
     "tab.hoverForeground": "#dbdbdc",
 
-    "scrollbarSlider.background": "#94949432",
-    "scrollbarSlider.hoverBackground": "#b8b8b868",
-    "scrollbarSlider.activeBackground": "#f2f2f27a",
+    "scrollbarSlider.background": "#2a2e3b6c",
+    "scrollbarSlider.hoverBackground": "#3f45588e",
+    "scrollbarSlider.activeBackground": "#3f4558a1",
+
     "progressBar.background": "#0c92ff",
     "widget.shadow": "#00000056",
     "editorWidget.foreground": "#cfcfcf",

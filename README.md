@@ -1,10 +1,15 @@
 # Palestorm
 
-A Palenight based theme with more contrast, features like semantic highlighting and more ⚡️
+A awesome theme for awesome people ⚡️
 
 ## Screenshots
 
+# Palestorm
+
 ![Palestorm](https://raw.githubusercontent.com/Akaike/vsc-palestorm-theme/main/palestorm_screenshot.png)
+
+# Palestorm X
+
 ![Palestorm X](https://raw.githubusercontent.com/Akaike/vsc-palestorm-theme/main/palestorm_x_screenshot.png)
 
 - Folder icons: [@Material Theme Icons - Palenight](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons) - not included

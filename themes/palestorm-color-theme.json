@@ -1473,7 +1473,7 @@
     "editorBracketMatch.background": "#609ff01a",
     "editorBracketMatch.border": "#a2c6ff8b",
     "editor.foldBackground": "#2125327e",
-    "editorOverviewRuler.background": "#22263422",
+    "editorOverviewRuler.background": "#282d3f2e",
     "editorOverviewRuler.border": "#1f222e00",
 
     "editorError.foreground": "#FF5370",

@@ -1,14 +1,14 @@
 {
   "name": "palestorm",
   "displayName": "Palestorm",
-  "description": "A pale theme for your eyes",
-  "version": "1.2.4",
+  "description": "An awesome theme for awesome people",
+  "version": "1.2.5",
   "publisher": "alexanderalekseenko",
   "license": "MIT",
   "author": "Alexander Alekseenko",
   "icon": "logo.png",
   "galleryBanner": {
-    "color": "#2A2D3E",
+    "color": "#B8B1C5",
     "theme": "dark"
   },
   "repository": {
