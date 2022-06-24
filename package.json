@@ -1,0 +1,62 @@
+{
+  "name": "palestorm",
+  "displayName": "Palestorm",
+  "description": "A pale theme for your eyes",
+  "version": "1.2.3",
+  "publisher": "alexanderalekseenko",
+  "license": "MIT",
+  "author": "Alexander Alekseenko",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#2A2D3E",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akaike/vsc-palestorm-theme.git"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes",
+    "Purple",
+    "Dark theme",
+    "Theme",
+    "Pale theme",
+    "Awesome theme"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Palestorm",
+        "path": "./themes/palestorm-color-theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Palestorm X",
+        "path": "./themes/palestorm-x-color-theme.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "2bf6279c-66bf-4938-987e-2fb28c96dd39",
+    "publisherId": "0bdbc8ec-d45b-4dab-b01b-e5fbca0882b3",
+    "publisherDisplayName": "Alexander Alekseenko",
+    "installedTimestamp": 1655414282450,
+    "targetPlatform": "undefined",
+    "updated": false,
+    "isPreReleaseVersion": false,
+    "preRelease": false
+  }
+}
