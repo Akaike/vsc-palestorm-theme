@@ -1420,10 +1420,10 @@
 
     "button.background": "#444c69",
     "button.foreground": "#c0ceff",
-    "button.hoverBackground": "#515b79",
+    "button.hoverBackground": "#393f57",
     "button.secondaryForeground": "#c0ceff",
     "button.secondaryBackground": "#3b425a",
-    "button.secondaryHoverBackground": "#414964",
+    "button.secondaryHoverBackground": "#373e54",
 
     "input.background": "#242938",
     "input.border": "#5c688c",
