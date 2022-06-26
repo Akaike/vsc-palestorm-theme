@@ -1351,14 +1351,14 @@
     "selection.background": "#353b51",
     "scrollbar.shadow": "#0a0a0a00",
 
-    "activityBar.foreground": "#c0ceff",
+    "activityBar.foreground": "#99a4cd",
     "activityBar.background": "#222634",
-    "activityBar.inactiveForeground": "#697091",
+    "activityBar.inactiveForeground": "#626987",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#493FCF",
     "activityBar.border": "#1f222e",
     "activityBar.activeBackground": "#1f222e",
-    "activityBar.activeBorder": "#c0ceff",
+    "activityBar.activeBorder": "#99a4cd",
 
     "sideBar.background": "#222634",
     "sideBar.foreground": "#7882A5",

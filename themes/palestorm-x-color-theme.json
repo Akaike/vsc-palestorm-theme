@@ -336,16 +336,19 @@
   ],
   "colors": {
     "foreground": "#b2b2b2",
-    "focusBorder": "#007fd4",
+    "focusBorder": "#474853",
     "selection.background": "#276ca9cb",
     "scrollbar.shadow": "#00000000",
 
-    "activityBar.foreground": "#1482ff",
+    "activityBar.foreground": "#c1c4dc",
     "activityBar.background": "#24252c",
     "activityBar.inactiveForeground": "#64697b",
     "activityBarBadge.foreground": "#dbdbdc",
     "activityBarBadge.background": "#1482ff",
     "activityBar.border": "#292a32",
+    "activityBar.dropBorder": "#1482ff",
+    "activityBar.activeBorder": "#a5a7bb",
+    "activityBar.activeBackground": "#00000000",
 
     "sideBar.background": "#24252c",
     "sideBar.foreground": "#7d809b",
